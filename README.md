@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joaolopeslima
-- 👀 I’m interested in mobile developing
+- 👀 I’m interested in web developing using Angular
 - 🌱 I’m currently learning Computer science
 - 📫 How to reach me:
 - 📷 follow me @joaolopeslima
